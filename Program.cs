@@ -1,3 +1,5 @@
+using HelloApi.Repositories;
+using HelloApi.Services;
 using MessageApi.Data;
 using MessageApi.Repositories;
 using MessageApi.Services;
@@ -16,6 +18,15 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 // Dependencias
 builder.Services.AddScoped<IMessageRepository, MessageRepository>();
 builder.Services.AddScoped<IMessageService, MessageService>();
+builder.Services.AddScoped<IItemRepository, ItemRepository>();
+builder.Services.AddScoped<IItemService, ItemService>();
+builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+builder.Services.AddScoped<IOrderService, OrderService>();
+builder.Services.AddScoped<IOrderDetailRepository, OrderDetailRepository>();
+builder.Services.AddScoped<IOrderDetailService, OrderDetailService>();
+builder.Services.AddScoped<IPersonRepository, PersonRepository>();
+builder.Services.AddScoped <IPersonService, PersonService>();
+
 
 // CORS
 var allowedOrigins = builder.Configuration.GetSection("AllowedOrigins").Get<string[]>() ?? [];

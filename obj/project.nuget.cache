@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ykwvFkdJCMQ=",
+  "dgSpecHash": "RbgQx2eZ9q0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dania\\source\\repos\\HelloApi\\HelloApi.csproj",
+  "projectFilePath": "C:\\Laboratorio2 Backend\\HelloApi\\HelloApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dania\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\dania\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

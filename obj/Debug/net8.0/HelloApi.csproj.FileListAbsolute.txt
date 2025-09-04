@@ -1,169 +1,510 @@
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\HelloApi.csproj.AssemblyReference.cache
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\HelloApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\HelloApi.AssemblyInfoInputs.cache
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\HelloApi.AssemblyInfo.cs
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\HelloApi.csproj.CoreCompileInputs.cache
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\HelloApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\HelloApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\appsettings.json
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\HelloApi.exe
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\HelloApi.deps.json
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\HelloApi.runtimeconfig.json
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\HelloApi.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\HelloApi.pdb
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Humanizer.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Build.Locator.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.ClientModel.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.CodeDom.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Formats.Asn1.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.IO.Pipelines.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Memory.Data.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Runtime.Caching.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Text.Json.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-C:\Users\dania\source\repos\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.HelloApi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.build.HelloApi.props
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HelloApi.props
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HelloApi.props
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\scopedcss\bundle\HelloApi.styles.css
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\HelloApi.csproj.Up2Date
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\HelloApi.dll
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\refint\HelloApi.dll
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\HelloApi.pdb
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\HelloApi.genruntimeconfig.cache
-C:\Users\dania\source\repos\HelloApi\obj\Debug\net8.0\ref\HelloApi.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\appsettings.json
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\HelloApi.exe
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\HelloApi.deps.json
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\HelloApi.runtimeconfig.json
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\HelloApi.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\HelloApi.pdb
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Humanizer.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.ClientModel.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Laboratorio2\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\HelloApi.csproj.AssemblyReference.cache
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\HelloApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\HelloApi.AssemblyInfoInputs.cache
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\HelloApi.AssemblyInfo.cs
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\HelloApi.csproj.CoreCompileInputs.cache
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\HelloApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\HelloApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\HelloApi.sourcelink.json
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.HelloApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.build.HelloApi.props
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HelloApi.props
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HelloApi.props
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\scopedcss\bundle\HelloApi.styles.css
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\HelloApi.csproj.Up2Date
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\HelloApi.dll
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\refint\HelloApi.dll
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\HelloApi.pdb
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\HelloApi.genruntimeconfig.cache
+C:\Laboratorio2\HelloApi\obj\Debug\net8.0\ref\HelloApi.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\appsettings.json
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\HelloApi.exe
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\HelloApi.deps.json
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\HelloApi.runtimeconfig.json
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\HelloApi.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\HelloApi.pdb
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Humanizer.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.ClientModel.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Laboratorio2\Backend\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\HelloApi.csproj.AssemblyReference.cache
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\HelloApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\HelloApi.AssemblyInfoInputs.cache
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\HelloApi.AssemblyInfo.cs
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\HelloApi.csproj.CoreCompileInputs.cache
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\HelloApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\HelloApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\HelloApi.sourcelink.json
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.HelloApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.build.HelloApi.props
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HelloApi.props
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HelloApi.props
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\scopedcss\bundle\HelloApi.styles.css
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\HelloApi.csproj.Up2Date
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\HelloApi.dll
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\refint\HelloApi.dll
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\HelloApi.pdb
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\HelloApi.genruntimeconfig.cache
+C:\Laboratorio2\Backend\HelloApi\obj\Debug\net8.0\ref\HelloApi.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\appsettings.json
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\HelloApi.exe
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\HelloApi.deps.json
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\HelloApi.runtimeconfig.json
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\HelloApi.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\HelloApi.pdb
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Humanizer.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.ClientModel.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Laboratorio2 Backend\HelloApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\HelloApi.csproj.AssemblyReference.cache
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\HelloApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\HelloApi.AssemblyInfoInputs.cache
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\HelloApi.AssemblyInfo.cs
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\HelloApi.csproj.CoreCompileInputs.cache
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\HelloApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\HelloApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\HelloApi.sourcelink.json
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.HelloApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.build.HelloApi.props
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HelloApi.props
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HelloApi.props
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\scopedcss\bundle\HelloApi.styles.css
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\HelloApi.csproj.Up2Date
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\HelloApi.dll
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\refint\HelloApi.dll
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\HelloApi.pdb
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\HelloApi.genruntimeconfig.cache
+C:\Laboratorio2 Backend\HelloApi\obj\Debug\net8.0\ref\HelloApi.dll
