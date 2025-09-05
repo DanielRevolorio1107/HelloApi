@@ -60,6 +60,7 @@ namespace HelloApi.Services
         {
             Id = o.Id,
             Number = o.Number,
+            CreatedAt = o.CreatedAt,
             Person = o.Person is null ? null : new PersonReadDto
             {
                 Id = o.Person.Id,
