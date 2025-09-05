@@ -1,5 +1,4 @@
-﻿
-using HelloApi.Models;
+﻿using HelloApi.Models;
 using HelloApi.Models.DTOs;
 using HelloApi.Repositories;
 
@@ -51,23 +50,11 @@ namespace HelloApi.Services
         private static OrderDetailReadDto MapToOrderDetailReadDto(OrderDetail d) => new()
         {
             Id = d.Id,
+            ItemId = d.ItemId,
+            ItemName = d.Item != null ? d.Item.Name : string.Empty,
             Quantity = d.Quantity,
             Price = d.Price,
-            Total = d.Total,
-            CreatedBy = d.CreatedBy,
-            CreatedAt = d.CreatedAt,
-            UpdatedBy = d.UpdatedBy,
-            UpdateAt = d.UpdateAt,
-            Order = d.Order == null ? null : new MiniOrderDto
-            {
-                Id = d.Order.Id,
-                Number = d.Order.Number
-            },
-            Item = d.Item == null ? null : new MiniItemDto
-            {
-                Id = d.Item.Id,
-                Name = d.Item.Name
-            }
+            Total = d.Total
         };
     }
 }

@@ -14,62 +14,68 @@ namespace HelloApi.Services
             {
                 PersonId = order.PersonId,
                 Number = order.Number,
-                CreatedAt = DateTime.UtcNow,
+                CreatedAt = DateTime.UtcNow
             };
 
             var created = await _repository.AddOrderAsync(toSave);
-
-   
+            // Trae con relaciones para proyectar completo
             var saved = await _repository.GetOrderWithPersonByIdAsync(created.Id) ?? created;
-
             return MapToOrderReadDto(saved);
         }
 
         public async Task<IEnumerable<OrderReadDto>> GetAllOrderDtoAsync()
         {
-       
             var entities = await _repository.GetAllOrdersWithPersonAsync();
             return entities.Select(MapToOrderReadDto);
         }
 
-        public async Task<OrderReadDto?> GetOrderDtoById(int id)
+        public async Task<OrderReadDto?> GetOrderDtoById(int id /* OJO: tu controller usa {number:int} */)
         {
-           
             var entity = await _repository.GetOrderWithPersonByIdAsync(id);
-            return entity is null ? null : MapToOrderReadDto(entity);
+            return entity == null ? null : MapToOrderReadDto(entity);
         }
 
-        public async Task<OrderReadDto?> UpdateOrderDtoAsync(int id, OrderUpdateDto order)
+        public async Task<OrderReadDto?> UpdateOrderDtoAsync(int id, OrderUpdateDto dto)
         {
-           
             var existing = await _repository.GetOrderByIdAsync(id);
-            if (existing is null) return null;
+            if (existing == null) return null;
 
-            existing.PersonId = order.PersonId;
-            existing.Number = order.Number;
+            existing.PersonId = dto.PersonId;
+            existing.Number = dto.Number;
+            existing.UpdateAt = DateTime.UtcNow;
 
-           
             var updated = await _repository.UpdateOrderAsync(existing);
-            if (updated is null) return null;
+            if (updated == null) return null;
 
-            
-            var withPerson = await _repository.GetOrderWithPersonByIdAsync(updated.Id) ?? updated;
-
-            return MapToOrderReadDto(withPerson);
+            var withRefs = await _repository.GetOrderWithPersonByIdAsync(updated.Id) ?? updated;
+            return MapToOrderReadDto(withRefs);
         }
 
-        public Task<bool> DeleteOrderDtoAsync(int id) => _repository.DeleteOrderAsync(id);
-
-        private static OrderReadDto MapToOrderReadDto(Order order) => new()
+        public async Task<bool> DeleteOrderDtoAsync(int id)
         {
-            Id = order.Id,
-            Number = order.Number,
-            Person = order.Person == null ? null : new PersonReadDto
+            return await _repository.DeleteOrderAsync(id);
+        }
+
+        private static OrderReadDto MapToOrderReadDto(Order o) => new()
+        {
+            Id = o.Id,
+            Number = o.Number,
+            Person = o.Person is null ? null : new PersonReadDto
             {
-                Id = order.Person.Id,
-                FirstName = order.Person.FirstName,
-                LastName = order.Person.LastName
-            }
+                Id = o.Person.Id,
+                FirstName = o.Person.FirstName,
+                LastName = o.Person.LastName,
+                Email = o.Person.Email ?? string.Empty
+            },
+            OrderDetail = (o.OrderDetails ?? Enumerable.Empty<OrderDetail>()).Select(d => new OrderDetailReadDto
+            {
+                Id = d.Id,
+                ItemId = d.ItemId,
+                ItemName = d.Item != null ? d.Item.Name : string.Empty,
+                Price = d.Price,
+                Quantity = d.Quantity,
+                Total = d.Total
+            }).ToList()
         };
     }
 }

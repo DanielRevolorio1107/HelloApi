@@ -35,11 +35,13 @@ namespace HelloApi.Repositories
             return await _context.Orders.FindAsync(id);
         }
 
-     
-        public Task<Order?> GetOrderWithPersonByIdAsync(int id)
+
+        public async Task<Order?> GetOrderWithPersonByIdAsync(int id)
         {
-            return _context.Orders
+            return await _context.Orders
                 .Include(o => o.Person)
+                .Include(o => o.OrderDetails)
+                    .ThenInclude(d => d.Item)
                 .FirstOrDefaultAsync(o => o.Id == id);
         }
 
@@ -47,6 +49,8 @@ namespace HelloApi.Repositories
         {
             return await _context.Orders
                 .Include(o => o.Person)
+                .Include(o => o.OrderDetails)
+                    .ThenInclude(d => d.Item)
                 .OrderBy(o => o.Id)
                 .ToListAsync();
         }

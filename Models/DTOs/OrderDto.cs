@@ -3,13 +3,12 @@
     public class OrderDto
     {
         public int Id { get; set; }
-        public required int PersonId { get; set; }
-        public Person Person { get; set; }
         public int Number { get; set; }
-        public int CreatedBy { get; set; }
+        public PersonReadDto? Person { get; set; }
         public DateTime CreatedAt { get; set; }
-        public int UpdatedBy { get; set; }
         public DateTime? UpdatedAt { get; set; }
-        public List<OrderDetail> OrderDetails { get; set; } = [];
+
+        // Mantengo "OrderDetail" (singular) porque así lo consume tu front
+        public List<OrderDetailReadDto> OrderDetail { get; set; } = new();
     }
 }
